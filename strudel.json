@@ -1,3 +1,33 @@
 {
   "_base": "https://github.com/StoraLegs/brush-drums/",
+  "hh_ft": [
+    "hh_foot_vl9_rr1.wav",
+    "hh_foot_vl9_rr2.wav",
+    "hh_foot_vl9_rr3.wav",
+    "hh_foot_vl9_rr4.wav",
+  ],
+  "hh_ft_sp": [
+    "hh_footsplash_vl7_rr1.wav",
+    "hh_footsplash_vl7_rr2.wav",
+    "hh_footsplash_vl7_rr3.wav",
+    "hh_footsplash_vl7_rr4.wav",
+  ],
+  "sd_bt": [
+    "snare_hit_vl10_rr1_btm.wav",
+    "snare_hit_vl10_rr2_btm.wav",
+    "snare_hit_vl10_rr3_btm.wav",
+    "snare_hit_vl10_rr4_btm.wav",
+  ],
+  "sd_tp": [
+    "snare_hit_vl10_rr1_top.wav",
+    "snare_hit_vl10_rr2_top.wav",
+    "snare_hit_vl10_rr3_top.wav",
+    "snare_hit_vl10_rr4_top.wav",
+  ],
+  "splsh": [
+    "splash_vl10_rr1.wav",
+    "splash_vl10_rr2.wav",
+    "splash_vl10_rr3.wav",
+    "splash_vl10_rr4.wav",
+  ]
 }
